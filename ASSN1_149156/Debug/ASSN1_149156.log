@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ASSN1_149156.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ASSN1.cpp
+C:\Users\Thanish06\Desktop\ASSN1_149156\ASSN1.cpp(987,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  FitnessInfo.cpp
+  PersonalInfo.cpp
+  Staff.cpp
+C:\Users\Thanish06\Desktop\ASSN1_149156\ASSN1.cpp(993,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thanish06\Desktop\ASSN1_149156\Staff.cpp(19,14): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+  Generating Code...
+C:\Users\Thanish06\Desktop\ASSN1_149156\Staff.cpp(28,13): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Thanish06\Desktop\ASSN1_149156\ASSN1.cpp(295): warning C4715: 'combiS': not all control paths return a value
+  LINK : C:\Users\Thanish06\Desktop\ASSN1_149156\Debug\ASSN1.exe not found or not built by the last incremental link; performing full link
+  ASSN1_149156.vcxproj -> C:\Users\Thanish06\Desktop\ASSN1_149156\Debug\ASSN1.exe
